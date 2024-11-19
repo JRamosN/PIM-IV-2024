@@ -10,7 +10,7 @@ As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as
 
 🔗Projeto
 
-Link do projeto completo desenolvido no astah:
+Link do projeto completo desenolvido no astah: https://github.com/JRamosN/PIM-IV-2024/raw/refs/heads/main/Fazenda%20Urbana%20-%20EstrelaDoVale%20FINAL%201.asta
 
 🔗Integrantes
 
