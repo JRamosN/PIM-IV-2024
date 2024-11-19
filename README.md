@@ -14,8 +14,13 @@ Link do projeto completo desenolvido no astah:
 
 🔗Integrantes
 
-João Victor Ramos do Nascimento                                      G7308C1  
-Nathalia Jacque Mendes Lima                                          R025063 
-Renan Pereira Diniz                                                  N921714 
-Ruan dos Santos Oliveira                                             N066CF4 
-Vitor Antony de Marchi Castro                                        G775AG7 
+João Victor Ramos do Nascimento                                      G7308C1
+
+Nathalia Jacque Mendes Lima                                          R025063
+
+Renan Pereira Diniz                                                  N921714
+
+Ruan dos Santos Oliveira                                             N066CF4
+
+Vitor Antony de Marchi Castro                                        G775AG7
+
