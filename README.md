@@ -13,9 +13,9 @@ As ferramentas utilizadas para o desenvolvimento da análise do projeto foram as
 
 • Metodologia scrum - auxiliar na organização da entrega das atividades por meio das sprints
 
-* FlutterFlow para desenvolvimento Mobile
+• FlutterFlow para desenvolvimento Mobile
   
-* Electron para desenvolvimento
+• Electron para desenvolvimento
 
 ---
 
